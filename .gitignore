@@ -34,3 +34,6 @@
 /wp-content/cache/
 /wp-content/ai1wm-backups
 /wp-content/mu-plugins
+
+# Extra Files Ingnore
+/wp-content/plugins
